@@ -1,0 +1,167 @@
+*
+{
+    margin-top: 1.8%;
+    margin-bottom: 1.8%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+
+.heading1
+{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.subheading
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    padding-top: 0;
+   
+    
+}
+
+.subheading a,p
+{
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+/* EDUCATION DETAILS */
+
+.education
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+   
+}
+
+.education h3
+{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.subEduc
+{
+    display: flex;
+    flex: 3;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: -webkit-fill-available;
+}
+
+.subEduc p
+{
+    margin-bottom: 0;
+}
+
+.workExp
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+   
+}
+
+.workExp h3,p
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1px;
+}
+
+.subWork
+{
+    display: flex;
+    flex: 3;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: -webkit-fill-available;
+}
+
+.subWork p
+{
+    margin-bottom: 0;
+
+}
+
+.projExp
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+   
+}
+
+.projExp h3,p
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1px;
+}
+
+.subProj
+{
+    display: flex;
+    flex: 3;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: -webkit-fill-available;
+}
+
+.subProj p
+{
+    margin-bottom: 0;
+
+}
+
+.leadExp
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+   
+}
+
+.leadExp h3,p
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1px;
+}
+
+.subLead
+{
+    display: flex;
+    flex: 3;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: -webkit-fill-available;
+}
+
+.subLead p
+{
+    margin-bottom: 0;
+
+}
